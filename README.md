@@ -5,10 +5,10 @@
 ![ClipArt AI](https://img.shields.io/badge/Platform-Android-green) ![React Native](https://img.shields.io/badge/Built%20With-React%20Native-blue) ![AI Powered](https://img.shields.io/badge/Powered%20By-AI-purple)
 
 ## 📱 Download APK
-[Download Latest APK](https://expo.dev/accounts/viratsharma22/projects/ClipArtAI)
+[Download Latest APK](https://drive.google.com/file/d/1j1tOXLQcBybrTSD1XUnaa3idsoT9Ik1V/view?usp=drivesdk)
 
 ## 🎥 Screen Recording
-[Watch Demo](https://github.com/viratsharma22/ClipArt-AI)
+[Watch Demo](https://drive.google.com/file/d/17b8XWEtB71DulFlH_gF8tWIksRTBgTAx/view?usp=drivesdk)
 
 ## ✨ Features
 - 📷 Upload photo from Camera or Gallery
